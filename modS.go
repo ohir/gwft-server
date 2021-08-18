@@ -1,4 +1,4 @@
-package Server
+package server
 
 import (
 	proto "example.com/mP"
